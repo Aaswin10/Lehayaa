@@ -1,0 +1,232 @@
+{
+  "collections": {
+    "featured": {
+      "title": "Featured Collection",
+      "description": "Our most beloved pieces that define Le Hayaa's essence",
+      "products": [
+        {
+          "id": 1,
+          "name": "Elegant White Kurtha",
+          "description": "Timeless elegance in pure white cotton",
+          "image": "/kurtha/1.webp",
+          "category": "Classic",
+          "style": "Traditional",
+          "fabric": "Cotton",
+          "occasion": "Festive"
+        },
+        {
+          "id": 2,
+          "name": "Festive Embroidered Kurtha",
+          "description": "Intricate embroidery for special celebrations",
+          "image": "/kurtha/2.webp",
+          "category": "Festive",
+          "style": "Embroidered",
+          "fabric": "Silk",
+          "occasion": "Wedding"
+        },
+        {
+          "id": 3,
+          "name": "Casual Comfort Kurtha",
+          "description": "Everyday elegance meets comfort",
+          "image": "/kurtha/3.webp",
+          "category": "Casual",
+          "style": "Modern",
+          "fabric": "Linen",
+          "occasion": "Daily"
+        },
+        {
+          "id": 4,
+          "name": "Designer Statement Kurtha",
+          "description": "Bold design for the fashion-forward",
+          "image": "/kurtha/4.webp",
+          "category": "Designer",
+          "style": "Contemporary",
+          "fabric": "Silk Blend",
+          "occasion": "Party"
+        }
+      ]
+    },
+    "traditional": {
+      "title": "Traditional Heritage",
+      "description": "Celebrating timeless traditions with modern comfort",
+      "products": [
+        {
+          "id": 5,
+          "name": "Heritage Chikankari",
+          "description": "Hand-embroidered traditional artistry",
+          "image": "/kurtha/5.webp",
+          "category": "Traditional",
+          "style": "Chikankari",
+          "fabric": "Cotton",
+          "occasion": "Cultural"
+        },
+        {
+          "id": 6,
+          "name": "Royal Blue Kurtha",
+          "description": "Regal elegance in deep blue",
+          "image": "/kurtha/6.webp",
+          "category": "Traditional",
+          "style": "Classic",
+          "fabric": "Silk",
+          "occasion": "Festive"
+        },
+        {
+          "id": 7,
+          "name": "Printed Heritage",
+          "description": "Traditional prints with modern appeal",
+          "image": "/kurtha/7.webp",
+          "category": "Traditional",
+          "style": "Printed",
+          "fabric": "Cotton",
+          "occasion": "Daily"
+        },
+        {
+          "id": 8,
+          "name": "Golden Elegance",
+          "description": "Luxurious golden tones for special moments",
+          "image": "/kurtha/8.webp",
+          "category": "Luxury",
+          "style": "Embellished",
+          "fabric": "Silk",
+          "occasion": "Wedding"
+        }
+      ]
+    },
+    "contemporary": {
+      "title": "Contemporary Styles",
+      "description": "Modern interpretations of classic kurtha designs",
+      "products": [
+        {
+          "id": 9,
+          "name": "Modern Minimalist",
+          "description": "Clean lines, contemporary comfort",
+          "image": "/kurtha/9.webp",
+          "category": "Modern",
+          "style": "Minimalist",
+          "fabric": "Cotton Blend",
+          "occasion": "Casual"
+        },
+        {
+          "id": 10,
+          "name": "Urban Chic",
+          "description": "City-ready style with traditional roots",
+          "image": "/kurtha/10.webp",
+          "category": "Modern",
+          "style": "Urban",
+          "fabric": "Linen",
+          "occasion": "Work"
+        },
+        {
+          "id": 11,
+          "name": "Artistic Expression",
+          "description": "Unique patterns for creative souls",
+          "image": "/kurtha/11.webp",
+          "category": "Artistic",
+          "style": "Abstract",
+          "fabric": "Cotton",
+          "occasion": "Creative"
+        },
+        {
+          "id": 12,
+          "name": "Sophisticated Grace",
+          "description": "Refined elegance for discerning taste",
+          "image": "/kurtha/12.webp",
+          "category": "Elegant",
+          "style": "Sophisticated",
+          "fabric": "Silk",
+          "occasion": "Formal"
+        }
+      ]
+    },
+    "seasonal": {
+      "title": "Seasonal Favorites",
+      "description": "Perfect pieces for every season and mood",
+      "products": [
+        {
+          "id": 13,
+          "name": "Summer Breeze",
+          "description": "Light and airy for warm days",
+          "image": "/kurtha/13.webp",
+          "category": "Seasonal",
+          "style": "Light",
+          "fabric": "Cotton",
+          "occasion": "Summer"
+        },
+        {
+          "id": 14,
+          "name": "Monsoon Magic",
+          "description": "Vibrant colors for rainy days",
+          "image": "/kurtha/14.webp",
+          "category": "Seasonal",
+          "style": "Colorful",
+          "fabric": "Quick Dry",
+          "occasion": "Monsoon"
+        },
+        {
+          "id": 15,
+          "name": "Winter Warmth",
+          "description": "Cozy comfort for cooler months",
+          "image": "/kurtha/15.webp",
+          "category": "Seasonal",
+          "style": "Warm",
+          "fabric": "Wool Blend",
+          "occasion": "Winter"
+        },
+        {
+          "id": 16,
+          "name": "Spring Bloom",
+          "description": "Fresh florals for new beginnings",
+          "image": "/kurtha/16.webp",
+          "category": "Seasonal",
+          "style": "Floral",
+          "fabric": "Cotton",
+          "occasion": "Spring"
+        }
+      ]
+    }
+  },
+  "gallery": [
+    {
+      "id": "g1",
+      "title": "Elegant Ensemble",
+      "description": "Perfect blend of tradition and modernity",
+      "image": "/uploads/WhatsApp Image 2025-07-14 at 12.32.14.jpeg",
+      "category": "Lifestyle"
+    },
+    {
+      "id": "g2",
+      "title": "Festive Radiance",
+      "description": "Celebrating life's special moments",
+      "image": "/uploads/WhatsApp Image 2025-07-14 at 12.32.13 (2).jpeg",
+      "category": "Festive"
+    },
+    {
+      "id": "g3",
+      "title": "Casual Grace",
+      "description": "Effortless style for everyday elegance",
+      "image": "/uploads/WhatsApp Image 2025-07-14 at 12.32.13 (1).jpeg",
+      "category": "Casual"
+    },
+    {
+      "id": "g4",
+      "title": "Designer Statement",
+      "description": "Bold expressions of personal style",
+      "image": "/uploads/WhatsApp Image 2025-07-14 at 12.32.13.jpeg",
+      "category": "Designer"
+    },
+    {
+      "id": "g5",
+      "title": "Timeless Beauty",
+      "description": "Classic designs that never go out of style",
+      "image": "/uploads/WhatsApp Image 2025-07-14 at 12.32.12 (2).jpeg",
+      "category": "Classic"
+    },
+    {
+      "id": "g6",
+      "title": "Modern Muse",
+      "description": "Contemporary interpretations of traditional wear",
+      "image": "/uploads/WhatsApp Image 2025-07-14 at 12.32.12 (1).jpeg",
+      "category": "Modern"
+    }
+  ]
+}

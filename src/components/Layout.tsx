@@ -77,18 +77,25 @@ export const Layout = ({ children }: LayoutProps) => {
             <div className="md:hidden py-6 border-t border-border bg-background/95 backdrop-blur-sm">
               <nav className="space-y-4 px-2">
                 <Link
-                  to="/new-arrivals"
+                  to="/collections"
                   className="block py-2 px-3 text-muted-foreground hover:text-foreground hover:bg-accent rounded-md transition-all duration-200"
                   onClick={() => setIsMobileMenuOpen(false)}
                 >
-                  New Arrivals
+                  Collections
                 </Link>
                 <Link
-                  to="/women"
+                  to="/traditional"
                   className="block py-2 px-3 text-muted-foreground hover:text-foreground hover:bg-accent rounded-md transition-all duration-200"
                   onClick={() => setIsMobileMenuOpen(false)}
                 >
-                  Women
+                  Traditional
+                </Link>
+                <Link
+                  to="/contemporary"
+                  className="block py-2 px-3 text-muted-foreground hover:text-foreground hover:bg-accent rounded-md transition-all duration-200"
+                  onClick={() => setIsMobileMenuOpen(false)}
+                >
+                  Contemporary
                 </Link>
                 <Link
                   to="/lookbook"
@@ -96,20 +103,6 @@ export const Layout = ({ children }: LayoutProps) => {
                   onClick={() => setIsMobileMenuOpen(false)}
                 >
                   Lookbook
-                </Link>
-                <Link
-                  to="/accessories"
-                  className="block py-2 px-3 text-muted-foreground hover:text-foreground hover:bg-accent rounded-md transition-all duration-200"
-                  onClick={() => setIsMobileMenuOpen(false)}
-                >
-                  Accessories
-                </Link>
-                <Link
-                  to="/sale"
-                  className="block py-2 px-3 text-muted-foreground hover:text-foreground hover:bg-accent rounded-md transition-all duration-200"
-                  onClick={() => setIsMobileMenuOpen(false)}
-                >
-                  Sale
                 </Link>
                 <Link
                   to="/contact"

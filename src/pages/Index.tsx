@@ -5,8 +5,6 @@ import { ProductGrid } from "@/components/ProductGrid";
 import { TestimonialsSection } from "@/components/TestimonialsSection";
 import { BrandStorySection } from "@/components/BrandStorySection";
 import { Layout } from "@/components/Layout";
-import Accessories from "./Accessories";
-import NewArrivalsPage from "@/components/product/NewArrivalsPage";
 
 const Index = () => {
   return (
@@ -16,7 +14,6 @@ const Index = () => {
       <ProductGrid />
       <BrandStorySection />
       <TestimonialsSection />
-      
     </Layout>
   );
 };

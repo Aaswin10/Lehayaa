@@ -5,10 +5,9 @@ export const Navigation = () => {
   const location = useLocation();
 
   const navItems = [
-    { name: "New Arrivals", href: "/new-arrivals" },
-    { name: "Women", href: "/women" },
-    { name: "Accessories", href: "/accessories" },
-    { name: "Sale", href: "/sale" },
+    { name: "Collections", href: "/collections" },
+    { name: "Traditional", href: "/traditional" },
+    { name: "Contemporary", href: "/contemporary" },
     { name: "Lookbook", href: "/lookbook" },
   ];
 
