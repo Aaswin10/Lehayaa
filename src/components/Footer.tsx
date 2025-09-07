@@ -1,7 +1,6 @@
 
 import { Facebook, Instagram, Twitter } from "lucide-react";
 import { Link } from "react-router-dom";
-import { Button } from "@/components/ui/button";
 
 export const Footer = () => {
   return (
@@ -14,16 +13,16 @@ export const Footer = () => {
             <p className="text-muted-foreground">
               Where tradition meets contemporary elegance. Discover our curated collection of premium kurthas crafted for the modern connoisseur.
             </p>
-            <div className="flex space-x-4">
-              <Button variant="ghost" size="icon" className="text-muted-foreground hover:text-foreground">
+            <div className="flex space-x-4 text-muted-foreground">
+              <a href="#" className="hover:text-foreground transition-colors">
                 <Instagram className="h-5 w-5" />
-              </Button>
-              <Button variant="ghost" size="icon" className="text-muted-foreground hover:text-foreground">
+              </a>
+              <a href="#" className="hover:text-foreground transition-colors">
                 <Facebook className="h-5 w-5" />
-              </Button>
-              <Button variant="ghost" size="icon" className="text-muted-foreground hover:text-foreground">
+              </a>
+              <a href="#" className="hover:text-foreground transition-colors">
                 <Twitter className="h-5 w-5" />
-              </Button>
+              </a>
             </div>
           </div>
 
@@ -44,7 +43,6 @@ export const Footer = () => {
             <ul className="space-y-2 text-muted-foreground">
               <li><Link to="/contact" className="hover:text-foreground transition-colors">Contact Us</Link></li>
               <li><a href="tel:+9779808609520" className="hover:text-foreground transition-colors">+977 980-8609520</a></li>
-              <li><a href="mailto:info@lehayaa.com" className="hover:text-foreground transition-colors">info@lehayaa.com</a></li>
               <li><span className="text-sm">Durbar Marg, Kathmandu</span></li>
             </ul>
           </div>
