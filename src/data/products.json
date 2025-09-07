@@ -1,0 +1,175 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic White Cotton Kurtha",
+      "price": 1299,
+      "originalPrice": 1599,
+      "image": "/uploads/kurtha2.jpeg",
+      "category": "Men's Kurtha",
+      "isNew": true,
+      "onSale": true,
+      "gender": "men",
+      "collection": "new-arrivals"
+    },
+    {
+      "id": 2,
+      "name": "Festive Embroidered Kurtha",
+      "price": 2499,
+      "originalPrice": 2999,
+      "image": "/uploads/designer silk kurtha.webp",
+      "category": "Festive Kurtha",
+      "isNew": true,
+      "onSale": true,
+      "gender": "unisex",
+      "collection": "new-arrivals"
+    },
+    {
+      "id": 3,
+      "name": "Pastel Linen Kurtha",
+      "price": 1399,
+      "image": "/uploads/everyday casual.webp",
+      "category": "Women's Kurtha",
+      "isNew": true,
+      "onSale": false,
+      "gender": "women",
+      "collection": "new-arrivals"
+    },
+    {
+      "id": 4,
+      "name": "Designer Silk Kurtha",
+      "price": 3499,
+      "originalPrice": 3999,
+      "image": "/uploads/designer silk kurtha.webp",
+      "category": "Designer Kurtha",
+      "isNew": false,
+      "onSale": true,
+      "gender": "unisex",
+      "collection": "sale"
+    },
+    {
+      "id": 5,
+      "name": "Casual Everyday Kurtha",
+      "price": 999,
+      "image": "/uploads/everyday casual.webp",
+      "category": "Casual Kurtha",
+      "isNew": false,
+      "onSale": false,
+      "gender": "unisex",
+      "collection": "sale"
+    },
+    {
+      "id": 6,
+      "name": "Printed Boho Kurtha",
+      "price": 1599,
+      "image": "/uploads/printend boho kurtha.jpg",
+      "category": "Women's Kurtha",
+      "isNew": true,
+      "onSale": false,
+      "gender": "women",
+      "collection": "women"
+    },
+    {
+      "id": 7,
+      "name": "Classic Black Kurtha",
+      "price": 1399,
+      "image": "/uploads/kurtha2.jpeg",
+      "category": "Men's Kurtha",
+      "isNew": false,
+      "onSale": false,
+      "gender": "men",
+      "collection": "men"
+    },
+    {
+      "id": 8,
+      "name": "Chikankari Kurtha",
+      "price": 1799,
+      "originalPrice": 2099,
+      "image": "/uploads/chikankari kurtha.webp",
+      "category": "Women's Kurtha",
+      "isNew": false,
+      "onSale": true,
+      "gender": "women",
+      "collection": "women"
+    },
+    {
+      "id": 9,
+      "name": "Handloom Cotton Kurtha",
+      "price": 1499,
+      "image": "/uploads/kurtha2.jpeg",
+      "category": "Men's Kurtha",
+      "isNew": false,
+      "onSale": false,
+      "gender": "men",
+      "collection": "men"
+    },
+    {
+      "id": 10,
+      "name": "Floral Print Kurtha",
+      "price": 1299,
+      "image": "/uploads/floral print kurtha.webp",
+      "category": "Women's Kurtha",
+      "isNew": false,
+      "onSale": false,
+      "gender": "women",
+      "collection": "women"
+    },
+    {
+      "id": 11,
+      "name": "Kids' Festive Kurtha",
+      "price": 899,
+      "image": "/uploads/kurtha2.jpeg",
+      "category": "Kids Kurtha",
+      "isNew": true,
+      "onSale": false,
+      "gender": "unisex",
+      "collection": "new-arrivals"
+    },
+    {
+      "id": 12,
+      "name": "Pastel Blue Kurtha",
+      "price": 1399,
+      "image": "/uploads/kurtha2.jpeg",
+      "category": "Men's Kurtha",
+      "isNew": false,
+      "onSale": false,
+      "gender": "men",
+      "collection": "men"
+    },
+    {
+      "id": 13,
+      "name": "Elegant Party Kurtha",
+      "price": 2199,
+      "originalPrice": 2599,
+      "image": "/uploads/elegant party kurtha.webp",
+      "category": "Designer Kurtha",
+      "isNew": true,
+      "onSale": true,
+      "gender": "unisex",
+      "collection": "sale"
+    },
+    {
+      "id": 14,
+      "name": "Cotton Kurtha with Dupatta",
+      "price": 1699,
+      "image": "/uploads/cotton kurtha with duppata.webp",
+      "category": "Women's Kurtha",
+      "isNew": false,
+      "onSale": false,
+      "gender": "women",
+      "collection": "women"
+    },
+    {
+      "id": 15,
+      "name": "Kurtha Pajama Set",
+      "price": 1899,
+      "image": "/uploads/kurtha2.jpeg",
+      "category": "Men's Kurtha",
+      "isNew": true,
+      "onSale": false,
+      "gender": "men",
+      "collection": "men"
+    }
+  ]
+}
